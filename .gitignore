@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+# Blender backup file
+*.blend1
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
